@@ -26,6 +26,12 @@ A content-based movie recommender built with Python and scikit-learn. Pick a mov
 | Toy Story | Toy Story 2, Toy Story 3, … |
 | Avatar | Titan A.E., Aliens vs Predator: Requiem, Independence Day, Predators, Jupiter Ascending |
 
+## 📸 Screenshots
+
+| The Dark Knight Rises → Batman films | Spectre → James Bond films |
+| --- | --- |
+| ![Recommendations for The Dark Knight Rises](screenshots/dark-knight-rises.png) | ![Recommendations for Spectre](screenshots/spectre.png) |
+
 ## 🛠️ Tech Stack
 
 | Area | Tools |
@@ -43,6 +49,7 @@ Movie-Recommendation-System/
 ├── app.py                 # Streamlit app: loads the model and shows recommendations
 ├── build_model.py         # Builds movies.pkl and similarity.pkl from the dataset
 ├── tmdb_5000_movies.csv   # TMDB 5000 movies dataset
+├── screenshots/           # app screenshots used in this README
 ├── requirements.txt
 └── README.md
 ```
