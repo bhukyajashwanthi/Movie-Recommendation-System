@@ -28,9 +28,9 @@ A content-based movie recommender built with Python and scikit-learn. Pick a mov
 
 ## 📸 Screenshots
 
-| The Dark Knight Rises → Batman films | Spectre → James Bond films |
-| --- | --- |
-| ![Recommendations for The Dark Knight Rises](screenshots/dark-knight-rises.png) | ![Recommendations for Spectre](screenshots/spectre.png) |
+**The Dark Knight Rises → Batman films**
+
+![Recommendations for The Dark Knight Rises](screenshots/dark-knight-rises.png)
 
 ## 🛠️ Tech Stack
 
