@@ -1,0 +1,16 @@
+# Generated model files (large; rebuild with build_model.py)
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
